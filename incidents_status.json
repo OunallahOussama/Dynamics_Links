@@ -1,0 +1,162 @@
+[
+  {
+    "status_txt": "Active",
+    "status_id": 925250001
+  },
+  {
+    "status_txt": "Active",
+    "status_id": 1
+  },
+  {
+    "status_txt": "Approved - Pending Order",
+    "status_id": 925250006
+  },
+  {
+    "status_txt": "Business Admin Activated",
+    "status_id": 925250022
+  },
+  {
+    "status_txt": "Cancelled",
+    "status_id": 6
+  },
+  {
+    "status_txt": "Closed",
+    "status_id": 92525000
+  },
+  {
+    "status_txt": "Closed",
+    "status_id": 100000004
+  },
+  {
+    "status_txt": "Completed",
+    "status_id": 100000005
+  },
+  {
+    "status_txt": "Draft",
+    "status_id": 100000000
+  },
+  {
+    "status_txt": "Elevated",
+    "status_id": 100000008
+  },
+  {
+    "status_txt": "Elevated to L2",
+    "status_id": 925250020
+  },
+  {
+    "status_txt": "Elevated to L3",
+    "status_id": 925250021
+  },
+  {
+    "status_txt": "Escalate to Mentor",
+    "status_id": 100000003
+  },
+  {
+    "status_txt": "Escalated",
+    "status_id": 925250010
+  },
+  {
+    "status_txt": "Information Provided",
+    "status_id": 1000
+  },
+  {
+    "status_txt": "Merged",
+    "status_id": 2000
+  },
+  {
+    "status_txt": "Monitor",
+    "status_id": 925250011
+  },
+  {
+    "status_txt": "New",
+    "status_id": 925250000
+  },
+  {
+    "status_txt": "On Hold",
+    "status_id": 2
+  },
+  {
+    "status_txt": "Pending Approval",
+    "status_id": 925250004
+  },
+  {
+    "status_txt": "Pending Callback",
+    "status_id": 925250002
+  },
+  {
+    "status_txt": "Pending Customer Action",
+    "status_id": 925250012
+  },
+  {
+    "status_txt": "Pending Customer Actions",
+    "status_id": 925250003
+  },
+  {
+    "status_txt": "Pending Follow Up",
+    "status_id": 100000002
+  },
+  {
+    "status_txt": "Pending HP Action",
+    "status_id": 925250014
+  },
+  {
+    "status_txt": "Pending HP Authorization",
+    "status_id": 925250005
+  },
+  {
+    "status_txt": "Pending Order",
+    "status_id": 925250013
+  },
+  {
+    "status_txt": "Pending Order Completion",
+    "status_id": 925250007
+  },
+  {
+    "status_txt": "Pending Payment",
+    "status_id": 925250019
+  },
+  {
+    "status_txt": "Pending Quote",
+    "status_id": 925250015
+  },
+  {
+    "status_txt": "Problem Solved",
+    "status_id": 5
+  },
+  {
+    "status_txt": "Quote Approved",
+    "status_id": 925250017
+  },
+  {
+    "status_txt": "Quote Rejected",
+    "status_id": 925250018
+  },
+  {
+    "status_txt": "Quote Requested",
+    "status_id": 925250016
+  },
+  {
+    "status_txt": "Rejected",
+    "status_id": 100000006
+  },
+  {
+    "status_txt": "Rejected",
+    "status_id": 925250009
+  },
+  {
+    "status_txt": "Request for case closure",
+    "status_id": 100000001
+  },
+  {
+    "status_txt": "Researching",
+    "status_id": 4
+  },
+  {
+    "status_txt": "Void Case",
+    "status_id": 100000007
+  },
+  {
+    "status_txt": "Waiting for Details",
+    "status_id": 3
+  }
+]
