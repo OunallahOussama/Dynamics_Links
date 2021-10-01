@@ -1,0 +1,34 @@
+[
+  {
+    "hpi_business_id": 100000003,
+    "hpi_business_label": "Computing"
+  },
+  {
+    "hpi_business_id": 100000006,
+    "hpi_business_label": "Custom"
+  },
+  {
+    "hpi_business_id": 100000007,
+    "hpi_business_label": "Daas"
+  },
+  {
+    "hpi_business_id": 100000004,
+    "hpi_business_label": "dMPS"
+  },
+  {
+    "hpi_business_id": 100000001,
+    "hpi_business_label": "Graphics"
+  },
+  {
+    "hpi_business_id": 100000000,
+    "hpi_business_label": "MPS"
+  },
+  {
+    "hpi_business_id": 100000005,
+    "hpi_business_label": "pMPS"
+  },
+  {
+    "hpi_business_id": 100000002,
+    "hpi_business_label": "Printing"
+  }
+]
