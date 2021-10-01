@@ -1,0 +1,14 @@
+[
+  {
+    "hpi_id": 100000002,
+    "hpi_label": "Combined"
+  },
+  {
+    "hpi_id": 100000000,
+    "hpi_label": "Commercial"
+  },
+  {
+    "hpi_id": 100000001,
+    "hpi_label": "Consumer"
+  }
+]
