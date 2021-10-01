@@ -1,0 +1,26 @@
+[
+  {
+    "wo_status_id": 690970005,
+    "wo_status_label": "Closed - Canceled"
+  },
+  {
+    "wo_status_id": 690970004,
+    "wo_status_label": "Closed - Posted"
+  },
+  {
+    "wo_status_id": 690970003,
+    "wo_status_label": "Open - Completed"
+  },
+  {
+    "wo_status_id": 690970002,
+    "wo_status_label": "Open - In Progress"
+  },
+  {
+    "wo_status_id": 690970001,
+    "wo_status_label": "Open - Scheduled"
+  },
+  {
+    "wo_status_id": 690970000,
+    "wo_status_label": "Open - Unscheduled"
+  }
+]
